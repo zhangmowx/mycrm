@@ -4,3 +4,8 @@
 zhangmo新增了x功能，2020xxxx
 zhangmo新增了y功能，2020xxxx
 zhangmo新增了Z功能，2020xxxx
+
+新增了a功能，2020xxxx
+新增了b功能，2020xxxx
+新增了c功能，2020xxxx
+
